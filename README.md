@@ -55,21 +55,19 @@ Final_Year_Project_FacePay/
 ### 💻 Web App (Flask)
 
 bash
-<Pre>
+<pre>
 cd face_pay_web
 pip install -r requirements.txt
 python app.py
-<pre>
-  
----
-  
+</pre>
+
 ### 🖥️ Face Scanner App
   
 bash
 <pre>
 cd face_pay_scanner
 python face_scanner.py
-<pre>
+</pre>
 
 ---
   
@@ -79,10 +77,13 @@ bash
 <pre>
 cd shop_website
 python app.py
-<pre>
+</pre>
+
 ## ⚠️ Ensure the shop.db and main user database are in the correct paths.
 
 ---
+---
+  
   
 ### 🧪 Facial Recognition Details
   - Detection: Haar Cascade Classifier
